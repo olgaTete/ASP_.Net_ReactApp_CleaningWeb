@@ -1,0 +1,1 @@
+C:\Users\User\source\repos\ReactApp_CleaningWeb\reactapp_cleaningweb.client\obj\Debug\reactapp_cleaningweb.client.esproj.CoreCompileInputs.cache

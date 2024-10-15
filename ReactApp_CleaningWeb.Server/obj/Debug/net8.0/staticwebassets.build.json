@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "zdIgewd5ssqbCbmErQCVD2sON9JSCMo1CstilC9WBBc=",
+  "Source": "ReactApp_CleaningWeb.Server",
+  "BasePath": "_content/ReactApp_CleaningWeb.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ReactApp_CleaningWeb\\reactapp_cleaningweb.client\\reactapp_cleaningweb.client.esproj",
+      "Version": 2,
+      "Source": "reactapp_cleaningweb.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

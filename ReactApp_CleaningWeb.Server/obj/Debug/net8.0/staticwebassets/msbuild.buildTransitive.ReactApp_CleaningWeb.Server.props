@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ReactApp_CleaningWeb.Server.props" />
+</Project>

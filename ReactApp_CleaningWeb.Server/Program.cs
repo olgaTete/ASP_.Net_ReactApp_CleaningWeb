@@ -16,7 +16,7 @@ namespace ReactApp_CleaningWeb.Server
             builder.Services.AddCors(options =>
             {
                 options.AddPolicy("AllowSpecificOrigin",
-                    builder => builder.WithOrigins("https://localhost:5173") // Specify your frontend URL
+                    builder => builder.WithOrigins("https://localhost:5173")
                                       .AllowAnyMethod()
                                       .AllowAnyHeader());
             });
